@@ -143,4 +143,4 @@ The dataset used is the **California Housing dataset**, originally from the 1990
 ## Author
 
 **Moaaz Ahmed**
-- GitHub: [@Moaaz Ahmed](https://github.com/MomoSalter)
+- GitHub: [@Moaaz Ahmed](https://github.com/MoaazSalter)
