@@ -106,7 +106,7 @@ pip install pandas numpy matplotlib scikit-learn joblib
 
 1. Clone the repo
 ```bash
-git clone https://github.com/MomoSalter/california-housing-price-predictor.git
+git clone https://github.com/MoaazSalter/california-housing-price-predictor.git
 cd california-housing-price-predictor
 ```
 
